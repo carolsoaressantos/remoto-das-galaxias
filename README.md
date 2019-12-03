@@ -16,6 +16,7 @@ Este é um repositório baseado na palestra que dei na RubyConfBr 2019 e você p
 - [Codenation](https://www.codenation.dev/)
 - [Shawee](https://shawee.io/#contact)
 - [Ifood](https://www.ifood.com.br/carreiras)
+- [Pier](https://careers.pier.digital/)
 
 
 ## No exterior
@@ -38,3 +39,5 @@ ___________
 - Extensão para navegador com método pomodoro para gerenciamento de tempo de trabalho,Forest para [Chrome](https://chrome.google.com/webstore/detail/forest-stay-focused-be-pr/kjacjjdnoddnpbbcjilcajfhhbdhkpgk?hl=pt-BR) e [Firefox](https://addons.mozilla.org/pt-BR/firefox/addon/forest-stay-focused-be-present/)
 
 - ["Remote: Office Not Required"](https://www.amazon.com.br/gp/product/B00C0ALZ0W?pf_rd_p=96b1767d-f792-4902-8834-039a970f4513&pf_rd_r=PE0TQGVMGGF8HQ2V0GQ8) Livro sobre trabalho remoto, apenas em inglês. 
+
+- Ferramenta para comunicação de times fora do horário de reuniões: [TeamSpeak](https://teamspeak.com/en/), [Discord](https://discordapp.com/)
