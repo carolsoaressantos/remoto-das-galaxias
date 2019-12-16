@@ -40,4 +40,4 @@ ___________
 
 - ["Remote: Office Not Required"](https://www.amazon.com.br/gp/product/B00C0ALZ0W?pf_rd_p=96b1767d-f792-4902-8834-039a970f4513&pf_rd_r=PE0TQGVMGGF8HQ2V0GQ8) Livro sobre trabalho remoto, apenas em inglês. 
 
-- Ferramenta para comunicação de times fora do horário de reuniões: [TeamSpeak](https://teamspeak.com/en/), [Discord](https://discordapp.com/)
+- Ferramenta para comunicação de times fora do horário de reuniões: [TeamSpeak](https://teamspeak.com/en/), [Discord](https://discordapp.com/), [Matrix](https://github.com/ResultadosDigitais/matrix)
