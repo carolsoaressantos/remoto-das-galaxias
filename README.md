@@ -27,6 +27,7 @@ Este é um repositório baseado na palestra que dei na RubyConfBr 2019 e você p
 - [RedHat](jobs.redhat.com)
 - [GitHub](https://github.com/about/careers)
 - [StackOverflow](https://stackoverflow.com/company/work-here)
+- [Smile.io](https://smile.io/careers)
 
 
 
